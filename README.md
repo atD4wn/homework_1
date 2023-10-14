@@ -1,3 +1,11 @@
+Name : Taylor Meng
+UW NetID : tm990816
+
+As the instruction on canvus, I use git add first and use git commit -m "Homework1 final edit" as my commit
+then I use git push -u origin main to push my work to github
+
+
+
 # Homework #1
 
 **Due: Friday Oct. 13th @ 11:59 pm**
